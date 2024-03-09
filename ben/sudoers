@@ -1,0 +1,2 @@
+ben ALL=(ALL) ALL
+ben ALL=(ALL) NOPASSWD: /sbin/poweroff, /sbin/reboot, /usr/sbin/openvpn, /bin/mount

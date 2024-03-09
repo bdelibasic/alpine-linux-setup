@@ -1,0 +1,7 @@
+[org.freedesktop.DisplayManager.AccountsService]
+BackgroundFile='/home/ben/wallpaper/wallpaper.png'
+
+[User]
+Session=MATE
+XSession=i3
+SystemAccount=false
